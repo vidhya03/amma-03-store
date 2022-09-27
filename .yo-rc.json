@@ -6,12 +6,12 @@
       "invoice": {
         "applicationIndex": 2,
         "clientFramework": "no",
-        "serverPort": "98082"
+        "serverPort": "58082"
       },
       "product": {
         "applicationIndex": 1,
         "clientFramework": "no",
-        "serverPort": "98081"
+        "serverPort": "58081"
       }
     },
     "authenticationType": "oauth2",
@@ -49,7 +49,7 @@
     "prodDatabaseType": "postgresql",
     "reactive": true,
     "searchEngine": false,
-    "serverPort": "98080",
+    "serverPort": "58080",
     "serviceDiscoveryType": "eureka",
     "skipCheckLengthOfIdentifier": false,
     "skipClient": false,

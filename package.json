@@ -73,7 +73,7 @@
     "webpack-dev-server": "webpack serve"
   },
   "config": {
-    "backend_port": "98080",
+    "backend_port": "58080",
     "default_environment": "prod",
     "packaging": "jar"
   },
@@ -115,6 +115,7 @@
     "@types/webpack-env": "1.18.0",
     "@typescript-eslint/eslint-plugin": "5.36.1",
     "@typescript-eslint/parser": "5.36.1",
+    "ajv": "^8.11.0",
     "autoprefixer": "10.4.8",
     "browser-sync": "2.27.10",
     "browser-sync-webpack-plugin": "2.3.0",
